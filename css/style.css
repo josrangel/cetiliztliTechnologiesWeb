@@ -12,3 +12,44 @@
 .icon-block .material-icons {
 	font-size: inherit;
 }
+
+/* ---- particles.js container ---- */
+
+$size_floating_btn: 40px;
+$white: #FFFFFF;
+
+@keyframes btn_ir_arriba_animation {
+	from {
+
+  		width: size_floating_btn;
+  		height: size_floating_btn;
+	}
+  	to {
+  		width: 1px;
+  		height: 1px;
+  	}
+}
+
+#particles-js{
+  width: 100vw;
+  height: 35vh;
+  background-color: black;
+  background-image: url('');
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  position: relative;
+  z-index: 1;
+}
+
+#btn-ir-arriba{
+	position: fixed; 
+	bottom: 25px; 
+	right: 25px;
+}
+
+@media only screen and (max-width: 800px) {
+  #logo-container{
+    font-size: 0.8em;
+  }
+}

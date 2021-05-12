@@ -1,0 +1,107 @@
+.splash{
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: #fff;
+    font-size: 2em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    animation-name: open;
+    animation-duration: 2s;
+    animation-delay: 3.5s;
+    animation-fill-mode: forwards;
+    z-index: 998;
+}
+
+
+@media only screen and (max-width: 800px) {
+  .splash h4{
+    font-size: 0.4em;
+  }
+}
+/*.splash .img{
+    background-image: url("");
+    height: 72px;
+    width: 72px;
+    z-index: 999;
+}*/
+.splash::after, .splash::before{
+    content: "";
+    position: absolute;
+    background-color: #fff;
+    height: 100vh;
+    width: 30vw;
+    z-index: 999;
+    animation-name: open;
+    animation-fill-mode: forwards;
+    animation-duration: 2s;
+}
+.splash::after{
+    left: 30vw;
+    animation-delay: 200ms;
+}
+.splash::before{
+    left: 0;
+    animation-delay: 2s;
+}
+@keyframes open{
+    0%{
+        transform: translate(0, 0);
+    }
+    100%{
+        transform: translate(100%, 0);
+    }
+}
+
+.content{
+    height: 100vh;
+    width: 100vw;
+    background-color: #181818;
+    background-repeat: no-repeat;
+    background-size: cover;
+    outline: 20px solid white;
+    outline-offset: -20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.content h1{
+    font-size: 64px;
+    color: transparent;
+    margin: 0;
+    padding: 0;
+    animation-name: fadeIn;
+    animation-duration: 1s;
+    animation-delay: 4.2s;
+    animation-fill-mode: forwards;
+    animation-timing-function: linear;
+}
+@keyframes fadeIn{
+    0%{
+        padding-top: 20px;
+        color: transparent;
+    }
+    100%{
+        padding-top: 0;
+        color: white;
+    }
+}
+
+/*---------------------------*/
+
+.div-splash {
+  width: 90vw;
+  height: 100px;
+  background-color: black;
+  animation-name: example;
+  animation-duration: 4s;
+  
+}
+
+@keyframes example {
+  from {background-color: black;}
+  to {background-color: blue;}
+}
