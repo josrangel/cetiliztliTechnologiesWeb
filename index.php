@@ -7,26 +7,17 @@
   <title>Cetiliztli Technologies</title>
   <meta name="description" content="Desarrollamos software pensando en como hacer la vida mas facil a los demas">
   <!-- CSS  -->
-  <!--<script src="js/js-splash-2.0.min.js"></script>-->
   <link href="css/splash.css" type="text/css" rel="stylesheet" media="screen,projection"/>
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
   <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
-  
-  
 </head>
 <body>
 	<div class="splash">
 	<h4>Cetiliztli<br/>Technologies</h4>
         <!--<div class="img"></div>Cetiliztli Technologies-->
     </div>
-	<!--<script>
-  	var splash = new Splash({background: 'rgba(255, 255, 255, 1)'}, {
-        use: true
-    });
-  	splash.fromCSSAnimation('css/splash.css','<div></div>');
-  </script>-->
-  <nav class="black lighten-1" role="navigation">
+	<nav class="black lighten-1" role="navigation">
     <div class="nav-wrapper container">
     	<a id="logo-container" href="#" class="brand-logo">
     		<img height="40" src="img/logo-cetiliztli.PNG"/>
@@ -55,8 +46,7 @@
       <div class="row center">
       <!--<a href="http://materializecss.com/getting-started.html" id="download-button" class="btn-large waves-effect waves-light orange">Get Started</a>-->
       </div>
-    </div>
-    
+    </div>  
   </div>
 
 <div id="particles-js"></div>
@@ -95,7 +85,26 @@
       </div>
 
     </div>
-    <br><br>
+    <br>
+    <div class="container">
+      <div class="section">
+        <div class="row">
+          <h2 class="header col s12 light center orange-text">Nuestros desarrollos son:</h2>
+          <br><br><br><br><br>
+          <div class="col m4 s6">
+          <img src="img/logoBitacoraApp.png" height="100px" />
+          </div>
+          <div class="col m8 s12">
+          <h4>Mi bitacora</h4>
+
+          <p>Captura el registro de tus actividades para llevar el registro de ellas. Simplifica el control de tus tareas con esta aplicación.</p>
+          <a href='https://play.google.com/store/apps/details?id=com.josuerangel.mibitacora&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Disponible en Google Play' src='https://play.google.com/intl/es-419/badges/static/images/badges/es-419_badge_web_generic.png' height="100px"/></a>
+
+          <a href='https://appgallery.cloud.huawei.com/ag/n/app/C102509699?channelId=Cetiliztli+Technologies+website&id=3c4bfc2bc2f04cc69ff70b832a893b7e&s=C700260285A2FB36399CE806EB15EDBBC253ED30F82FF134815B492A261F038C&detailType=0&v='><img alt='Disponible en AppGallery' src='img/btn_appgallery.png' height="90px"/></a>
+        </div>
+        </div>
+      </div>
+    </div>
   </div>
 
   <footer class="page-footer blue">
@@ -133,7 +142,7 @@
     </a>
     <div class="footer-copyright">
       <div class="container">
-        © 2021 Cetiliztli Technologies 
+        © 2021 Cetiliztli Technologies. *Google Play y el logotipo de Google Play son marcas comerciales de Google LLC.
       </div>
     </div>
   </footer>
@@ -143,5 +152,11 @@
   <script src="js/init.js"></script>
   <script src="js/particles.min.js"></script>
   <script src="js/app.js"></script>
+  <!-- The core Firebase JS SDK is always required and must be listed first -->
+  <script src="https://www.gstatic.com/firebasejs/8.6.1/firebase-app.js"></script>
+  <!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+  <script src="https://www.gstatic.com/firebasejs/8.6.1/firebase-analytics.js"></script>
+  <script src="js/firebase-conf.js"></script>
   </body>
 </html>
