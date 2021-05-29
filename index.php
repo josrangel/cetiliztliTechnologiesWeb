@@ -105,6 +105,25 @@
         </div>
       </div>
     </div>
+
+    <div class="container">
+      <div class="section">
+        <div class="row">
+        	<h4 class="center">Te agradecemos mucho que uses nuestra tecnología. Si quieres contribuir, puedes realizar una donación, dando clic en el siguiente botón.</h4>
+        	<br/><br/>
+        	<center>
+          		<form action="https://www.paypal.com/donate" method="post" target="_top">
+          			<input type="hidden" name="business" value="TE8VKSKKQMT2L" />
+          			<input type="hidden" name="item_name" value=" Cetiliztli Technologies" />
+          			<input type="hidden" name="currency_code" value="MXN" />
+          			<input type="image" src="https://www.paypalobjects.com/es_XC/MX/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donar con el botón PayPal" />
+          			<img alt="" border="0" src="https://www.paypal.com/es_MX/i/scr/pixel.gif" width="1" height="1" />
+				</form>
+			</center>
+        </div>
+      </div>
+    </div>
+
   </div>
 
   <footer class="page-footer blue">
