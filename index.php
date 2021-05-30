@@ -26,10 +26,14 @@
       <ul class="right hide-on-med-and-down">
         <li><a href="#introduction">Introducción</a></li>
         <li><a href="#bio">Biografía</a></li>
+        <li><a href="#desarrollos">Desarrollos</a></li>
+        <li><a href="#donar">Donar</a></li>
       </ul>
       <ul id="nav-mobile" class="sidenav">
-        <li><a href="#introduction" onclick="esconderMenu();">Introducción</a></li>
-        <li><a href="#bio" onclick="esconderMenu();">Biografía</a></li>
+        <li><a href="#introduction" class="sidenav-close">Introducción</a></li>
+        <li><a href="#bio" class="sidenav-close">Biografía</a></li>
+        <li><a href="#desarrollos" class="sidenav-close">Desarrollos</a></li>
+        <li><a href="#donar" class="sidenav-close">Donar</a></li>
       </ul>
       <a href="#" data-target="nav-mobile" class="sidenav-trigger">
       	<i class="material-icons">menu</i>
@@ -49,9 +53,9 @@
     </div>  
   </div>
 
-<div id="particles-js"></div>
-  <div class="container">
-    <div class="section">
+	<div id="particles-js"></div>
+    <div class="container">
+    	<div class="section">
       <!--   Icon Section   -->
       <div class="row">
         <div class="col s12 m4">
@@ -83,42 +87,58 @@
           </div>
         </div>
       </div>
-
-    </div>
-    <br>
+  	</div>
+   </div>
+   <br>
+   <div id="bio">
     <div class="container">
       <div class="section">
         <div class="row">
-          <h2 class="header col s12 light center orange-text">Nuestros desarrollos son:</h2>
-          <br><br><br><br><br>
-          <div class="col m4 s6">
-          <img src="img/logoBitacoraApp.png" height="100px" />
-          </div>
-          <div class="col m8 s12">
-          <h4>Mi bitacora</h4>
+          <h2>Biografía</h2>
+          <br><br>
+          <p class="text-lighten-4">Somos un equipo de colaboradores que en su tiempo libre buscan generar tecnología para el beneficio de la comunidad. Mantenemos este esfuerzo mediante la publicidad en nuestras aplicaciones y por medio de donaciones.</p>
 
-          <p>Captura el registro de tus actividades para llevar el registro de ellas. Simplifica el control de tus tareas con esta aplicación.</p>
-          <a href='https://play.google.com/store/apps/details?id=com.josuerangel.mibitacora&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Disponible en Google Play' src='https://play.google.com/intl/es-419/badges/static/images/badges/es-419_badge_web_generic.png' height="100px"/></a>
-
-          <a href='https://appgallery.cloud.huawei.com/ag/n/app/C102509699?channelId=Cetiliztli+Technologies+website&id=3c4bfc2bc2f04cc69ff70b832a893b7e&s=C700260285A2FB36399CE806EB15EDBBC253ED30F82FF134815B492A261F038C&detailType=0&v='><img alt='Disponible en AppGallery' src='img/btn_appgallery.png' height="90px"/></a>
+          <p class="text-lighten-4">Nuestro nombre significa "Unidad" o "Union" en el idioma Náhuatl y fue elegido asi, en representacion a todas la personas que contribuyen en el adelanto cientifico y tecnologico que permiten el adelantamiento de la humanidad.</p>
         </div>
         </div>
       </div>
     </div>
-
-    <div class="container">
+    <div class="container" id="desarrollos">
       <div class="section">
         <div class="row">
-        	<h4 class="center">Te agradecemos mucho que uses nuestra tecnología. Si quieres contribuir, puedes realizar una donación, dando clic en el siguiente botón.</h4>
+          <h2>Desarrollos</h2>
+          <br><br>
+          <div class="col m4 s6">
+          <img src="img/logoBitacoraApp.png" height="100px" />
+          </div>
+          <div class="col m8 s12">
+          <h3>Mi bitacora</h3>
+
+          <p>Captura el registro de tus actividades para llevar el registro de ellas. Simplifica el control de tus tareas con esta aplicación.</p>
+          <a href='https://play.google.com/store/apps/details?id=com.josuerangel.mibitacora&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Disponible en Google Play' src='https://play.google.com/intl/es-419/badges/static/images/badges/es-419_badge_web_generic.png' height="100px"/></a>
+
+          <a href='https://appgallery.cloud.huawei.com/ag/n/app/C102509699?channelId=Cetiliztli+Technologies+website&id=3c4bfc2bc2f04cc69ff70b832a893b7e&s=C700260285A2FB36399CE806EB15EDBBC253ED30F82FF134815B492A261F038C&detailType=0&v='><img alt='Disponible en AppGallery' src='img/btn_appgallery.png' height="87px"/></a>
+        </div>
+        </div>
+      </div>
+    </div>
+</div>
+    <div class="container" id="donar">
+      <div class="section">
+        <div class="row">
+        	<h4 class="center">Te agradecemos mucho que uses nuestra tecnología.</h4>
+        	<br/><br/>
+        	<h5 class="center">Si quieres contribuir, puedes realizar una donación, dando clic en el siguiente botón.</h5>
         	<br/><br/>
         	<center>
           		<form action="https://www.paypal.com/donate" method="post" target="_top">
           			<input type="hidden" name="business" value="TE8VKSKKQMT2L" />
           			<input type="hidden" name="item_name" value=" Cetiliztli Technologies" />
           			<input type="hidden" name="currency_code" value="MXN" />
-          			<input type="image" src="https://www.paypalobjects.com/es_XC/MX/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donar con el botón PayPal" />
+          			<input id="btn-paypal" type="image" src="https://www.paypalobjects.com/es_XC/MX/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donar con el botón PayPal" />
           			<img alt="" border="0" src="https://www.paypal.com/es_MX/i/scr/pixel.gif" width="1" height="1" />
 				</form>
+				<br/><br/>
 			</center>
         </div>
       </div>
@@ -127,14 +147,11 @@
   </div>
 
   <footer class="page-footer blue">
-    <div id="bio" class="container">
+    <div id="consulta" class="container">
       <div class="row">
         <div class="col l12 s12">
-          <h5 class="white-text">Biografía</h5>
-          <p class="grey-text text-lighten-4">Somos un equipo de colaboradores que en su tiempo libre buscan generar tecnología para el beneficio de la comunidad. Mantenemos este esfuerzo mediante la publicidad en nuestras aplicaciones y por medio de donaciones.</p>
-
-          <p class="grey-text text-lighten-4">Nuestro nombre significa "Unidad" o "Union" en el idioma Náhuatl y fue elegido asi, en representacion a todas la personas que contribuyen en el adelanto cientifico y tecnologico que permiten el adelantamiento de la humanidad.</p>
-        </div>
+        	Fecha de la consulta: <?php echo date("d-m-Y H:i:s"); ?> 	
+		</div>
         <!--<div class="col l3 s12">
           <h5 class="white-text">Settings</h5>
           <ul>
