@@ -147,7 +147,7 @@
   </div>
 
   <footer class="page-footer blue">
-    <div id="consulta" class="container">
+    <!--<div id="consulta" class="container">
       <div class="row">
         <div class="col l12 s12">
         	Fecha de la consulta: <?php echo date("d-m-Y H:i:s"); ?> 	
@@ -171,8 +171,8 @@
             <li><a class="white-text" href="#!">Link 4</a></li>
           </ul>
         </div>-->
-      </div>
-    </div>
+      <!--</div>
+    </div>-->
     <a id="btn-ir-arriba" class="btn-floating orange" href="#">
     	<i class="material-icons">arrow_upward</i>
     </a>
