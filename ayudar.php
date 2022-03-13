@@ -14,7 +14,7 @@
 <body>
 	<nav class="black lighten-1" role="navigation">
     <div class="nav-wrapper container">
-    	<a id="logo-container" href="#" class="brand-logo">
+    	<a id="logo-container" href="/" class="brand-logo">
     		<img height="40" src="img/logo-cetiliztli.PNG"/>
     		Cetiliztli Technologies
     	</a>
