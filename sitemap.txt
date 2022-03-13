@@ -1,0 +1,3 @@
+https://cetiliztlitech.herokuapp.com/
+https://cetiliztlitech.herokuapp.com/index.php
+https://cetiliztlitech.herokuapp.com/ayudar.php
