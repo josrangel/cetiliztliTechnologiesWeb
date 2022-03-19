@@ -1,0 +1,4 @@
+Options +FollowSymLinks
+RewriteEngine on
+
+RewriteRule ^ayudar$ ayudar.php
