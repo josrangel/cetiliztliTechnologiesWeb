@@ -3,9 +3,10 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
-  <meta name="keyword" content="enlace referido, gbm, mercado pago, criptomonedas, limewire, airdrop, mexico, xcapit, legion network" />
+  <meta name="title" content="Enlaces de referidos | Cetiliztli Technologies" />
+  <meta name="description" content="A continuación se enlistan enlaces de referidos con los cuales puedes obtener algún beneficio o por lo menos ayudándonos. Te recomiendo que si no eres de México verifiques la disponibilidad de tu país. Descubre nuevas formas de hacer dinero">
+  <meta name="keyword" content="enlace referido, bitso, gbm, mercado pago, binance, criptomonedas, limewire, airdrop, mexico, xcapit, legion network" />
   <title>Cetiliztli Technologies</title>
-  <meta name="description" content="enlaces de referido">
   <!-- CSS  -->
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>

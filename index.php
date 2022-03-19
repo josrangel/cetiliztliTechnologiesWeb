@@ -3,9 +3,10 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+  <meta name="title" content="Cetiliztli Technologies | Desarrollo de software" />
+  <meta name="description" content="Desarrollamos software pensando en como hacer la vida mas facil a los demas">
   <meta name="keyword" content="cetiliztli Technologies, desarrollo de software, enlace referidos" />
   <title>Cetiliztli Technologies</title>
-  <meta name="description" content="Desarrollamos software pensando en como hacer la vida mas facil a los demas">
   <!-- CSS  -->
   <link href="css/splash.css" type="text/css" rel="stylesheet" media="screen,projection"/>
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -28,7 +29,7 @@
         <li><a href="#bio">Biografía</a></li>
         <li><a href="#desarrollos">Desarrollos</a></li>
         <li><a href="#donar">Donar</a></li>
-        <li><a href="/ayudar.php">Otras formas de ayudar</a></li>
+        <li><a href="/ayudar">Otras formas de ayudar</a></li>
 
       </ul>
       <ul id="nav-mobile" class="sidenav">
@@ -36,7 +37,7 @@
         <li><a href="#bio" class="sidenav-close">Biografía</a></li>
         <li><a href="#desarrollos" class="sidenav-close">Desarrollos</a></li>
         <li><a href="#donar" class="sidenav-close">Donar</a></li>
-        <li><a href="/ayudar.php" class="sidenav-close">Otras formas de ayudar</a></li>
+        <li><a href="/ayudar" class="sidenav-close">Otras formas de ayudar</a></li>
 
       </ul>
       <a href="#" data-target="nav-mobile" class="sidenav-trigger">
