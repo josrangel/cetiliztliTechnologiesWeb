@@ -4,7 +4,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
   <meta name="title" content="Enlaces de referidos | Cetiliztli Technologies" />
-  <meta name="description" content="A continuación se enlistan enlaces de referidos con los cuales puedes obtener algún beneficio o por lo menos ayudándonos. Te recomiendo que si no eres de México verifiques la disponibilidad de tu país. Descubre nuevas formas de hacer dinero">
+  <meta name="description" content="Enlaces de referidos con los cuales puedes obtener algún beneficio o por lo menos ayudándonos. Descubre nuevas formas de hacer dinero">
   <meta name="keyword" content="enlace referido, bitso, gbm, mercado pago, binance, criptomonedas, limewire, airdrop, mexico, xcapit, legion network" />
   <title>Cetiliztli Technologies</title>
   <!-- CSS  -->
@@ -16,7 +16,7 @@
 	<nav class="black lighten-1" role="navigation">
     <div class="nav-wrapper container">
     	<a id="logo-container" href="/" class="brand-logo">
-    		<img height="40" src="img/logo-cetiliztli.PNG"/>
+    		<img height="40" src="img/logo-cetiliztli.PNG" alt="Cetiliztli Technologies"/>
     		Cetiliztli Technologies
     	</a>
     
@@ -43,7 +43,7 @@
     <div class="container" id="desarrollos">
       <div class="section">
         <div class="row">
-          <h3>Enlaces de referidos</h3>
+          <h1>Enlaces de referidos</h1>
           <br><br>
 
           <h5 class="center">A continuación se enlistan enlaces de referidos con los cuales puedes obtener algún beneficio o por lo menos ayudándonos. Te recomiendo que si no eres de México verifiques la disponibilidad en tu país.<br>

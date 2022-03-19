@@ -48,7 +48,7 @@
   <div class="section no-pad-bot" id="introduction">
     <div class="container">
       <br><br>
-      <h2 class="header col s12 light center orange-text">Desarrollamos Software</h2>
+      <h1 class="header col s12 light center orange-text">Desarrollamos Software</h1>
       <div class="row center">
         <h3 class="header col s12">pensando en cómo hacer la vida más fácil a los demás</h3>
       </div>
