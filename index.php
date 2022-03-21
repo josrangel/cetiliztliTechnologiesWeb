@@ -1,29 +1,32 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0" />
   <meta name="title" content="Cetiliztli Technologies | Desarrollo de software" />
   <meta name="description" content="Desarrollamos software pensando en como hacer la vida mas facil a los demas">
   <meta name="keyword" content="cetiliztli Technologies, desarrollo de software, enlace referidos" />
   <title>Cetiliztli Technologies</title>
   <!-- CSS  -->
-  <link href="css/splash.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link href="css/splash.css" type="text/css" rel="stylesheet" media="screen,projection" />
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
-  <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection" />
+  <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection" />
+  <link rel="icon" type="image/jpg" href="img/favicon.ico" />
 </head>
+
 <body>
-	<div class="splash">
-	<h4>Cetiliztli<br/>Technologies</h4>
-        <!--<div class="img"></div>Cetiliztli Technologies-->
-    </div>
-	<nav class="black lighten-1" role="navigation">
+  <div class="splash">
+    <h4>Cetiliztli<br />Technologies</h4>
+    <!--<div class="img"></div>Cetiliztli Technologies-->
+  </div>
+  <nav class="black lighten-1" role="navigation">
     <div class="nav-wrapper container">
-    	<a id="logo-container" href="#" class="brand-logo">
-    		<img height="40" src="img/logo-cetiliztli.PNG" alt="Cetiliztli Technologies"/>
-    		Cetiliztli Technologies
-    	</a>
+      <a id="logo-container" href="#" class="brand-logo">
+        <img height="40" src="img/logo-cetiliztli.PNG" alt="Cetiliztli Technologies" />
+        Cetiliztli Technologies
+      </a>
       <ul class="right hide-on-med-and-down">
         <li><a href="#introduction">Introducción</a></li>
         <li><a href="#bio">Biografía</a></li>
@@ -41,7 +44,7 @@
 
       </ul>
       <a href="#" data-target="nav-mobile" class="sidenav-trigger">
-      	<i class="material-icons">menu</i>
+        <i class="material-icons">menu</i>
       </a>
     </div>
   </nav>
@@ -53,20 +56,20 @@
         <h3 class="header col s12">pensando en cómo hacer la vida más fácil a los demás</h3>
       </div>
       <div class="row center">
-      <!--<a href="http://materializecss.com/getting-started.html" id="download-button" class="btn-large waves-effect waves-light orange">Get Started</a>-->
+        <!--<a href="http://materializecss.com/getting-started.html" id="download-button" class="btn-large waves-effect waves-light orange">Get Started</a>-->
       </div>
-    </div>  
+    </div>
   </div>
 
-	<div id="particles-js"></div>
-    <div class="container">
-    	<div class="section">
+  <div id="particles-js"></div>
+  <div class="container">
+    <div class="section">
       <!--   Icon Section   -->
       <div class="row">
         <div class="col s12 m4">
           <div class="icon-block">
             <h2 class="center light-blue-text">
-            	<i class="material-icons">flash_on</i>
+              <i class="material-icons">flash_on</i>
             </h2>
             <h5 class="center">Innovación</h5>
 
@@ -92,10 +95,10 @@
           </div>
         </div>
       </div>
-  	</div>
-   </div>
-   <br>
-   <div id="bio">
+    </div>
+  </div>
+  <br>
+  <div id="bio">
     <div class="container">
       <div class="section">
         <div class="row">
@@ -105,49 +108,49 @@
 
           <p class="text-lighten-4">Nuestro nombre significa "Unidad" o "Union" en el idioma Náhuatl y fue elegido asi, en representacion a todas la personas que contribuyen en el adelanto cientifico y tecnologico que permiten el adelantamiento de la humanidad.</p>
         </div>
-        </div>
       </div>
     </div>
-    <div class="container" id="desarrollos">
-      <div class="section">
-        <div class="row">
-          <h2>Desarrollos</h2>
-          <br><br>
-          <div class="col m4 s6">
-          <img src="img/logoBitacoraApp.png" height="100px" alt="Mi bitacora logo"/>
-          </div>
-          <div class="col m8 s12">
+  </div>
+  <div class="container" id="desarrollos">
+    <div class="section">
+      <div class="row">
+        <h2>Desarrollos</h2>
+        <br><br>
+        <div class="col m4 s6">
+          <img src="img/logoBitacoraApp.png" height="100px" alt="Mi bitacora logo" />
+        </div>
+        <div class="col m8 s12">
           <h3>Mi bitacora</h3>
 
           <p>Captura el registro de tus actividades para llevar el registro de ellas. Simplifica el control de tus tareas con esta aplicación.</p>
-          <a href='https://play.google.com/store/apps/details?id=com.josuerangel.mibitacora&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Disponible en Google Play' src='https://play.google.com/intl/es-419/badges/static/images/badges/es-419_badge_web_generic.png' height="100px"/></a>
+          <a href='https://play.google.com/store/apps/details?id=com.josuerangel.mibitacora&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Disponible en Google Play' src='https://play.google.com/intl/es-419/badges/static/images/badges/es-419_badge_web_generic.png' height="100px" /></a>
 
-          <a href='https://appgallery.cloud.huawei.com/ag/n/app/C102509699?channelId=Cetiliztli+Technologies+website&id=3c4bfc2bc2f04cc69ff70b832a893b7e&s=C700260285A2FB36399CE806EB15EDBBC253ED30F82FF134815B492A261F038C&detailType=0&v='><img alt='Disponible en AppGallery' src='img/btn_appgallery.png' height="87px"/></a>
-        </div>
-        </div>
-      </div>
-    </div>
-</div>
-    <div class="container" id="donar">
-      <div class="section">
-        <div class="row">
-        	<h4 class="center">Te agradecemos mucho que uses nuestra tecnología.</h4>
-        	<br/><br/>
-        	<h5 class="center">Si quieres contribuir, puedes realizar una donación, dando clic en el siguiente botón.</h5>
-        	<br/><br/>
-        	<center>
-          		<form action="https://www.paypal.com/donate" method="post" target="_top">
-          			<input type="hidden" name="business" value="TE8VKSKKQMT2L" />
-          			<input type="hidden" name="item_name" value=" Cetiliztli Technologies" />
-          			<input type="hidden" name="currency_code" value="MXN" />
-          			<input id="btn-paypal" type="image" src="https://www.paypalobjects.com/es_XC/MX/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donar con el botón PayPal" />
-          			<img alt="Donar" border="0" src="https://www.paypal.com/es_MX/i/scr/pixel.gif" width="1" height="1" />
-				</form>
-				<br/><br/>
-			</center>
+          <a href='https://appgallery.cloud.huawei.com/ag/n/app/C102509699?channelId=Cetiliztli+Technologies+website&id=3c4bfc2bc2f04cc69ff70b832a893b7e&s=C700260285A2FB36399CE806EB15EDBBC253ED30F82FF134815B492A261F038C&detailType=0&v='><img alt='Disponible en AppGallery' src='img/btn_appgallery.png' height="87px" /></a>
         </div>
       </div>
     </div>
+  </div>
+  </div>
+  <div class="container" id="donar">
+    <div class="section">
+      <div class="row">
+        <h4 class="center">Te agradecemos mucho que uses nuestra tecnología.</h4>
+        <br /><br />
+        <h5 class="center">Si quieres contribuir, puedes realizar una donación, dando clic en el siguiente botón.</h5>
+        <br /><br />
+        <center>
+          <form action="https://www.paypal.com/donate" method="post" target="_top">
+            <input type="hidden" name="business" value="TE8VKSKKQMT2L" />
+            <input type="hidden" name="item_name" value=" Cetiliztli Technologies" />
+            <input type="hidden" name="currency_code" value="MXN" />
+            <input id="btn-paypal" type="image" src="https://www.paypalobjects.com/es_XC/MX/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donar con el botón PayPal" />
+            <img alt="Donar" border="0" src="https://www.paypal.com/es_MX/i/scr/pixel.gif" width="1" height="1" />
+          </form>
+          <br /><br />
+        </center>
+      </div>
+    </div>
+  </div>
 
   </div>
 
@@ -176,10 +179,10 @@
             <li><a class="white-text" href="#!">Link 4</a></li>
           </ul>
         </div>-->
-      <!--</div>
+    <!--</div>
     </div>-->
     <a id="btn-ir-arriba" class="btn-floating orange" href="#">
-    	<i class="material-icons">arrow_upward</i>
+      <i class="material-icons">arrow_upward</i>
     </a>
     <div class="footer-copyright">
       <div class="container">
@@ -199,5 +202,6 @@
      https://firebase.google.com/docs/web/setup#available-libraries -->
   <script src="https://www.gstatic.com/firebasejs/8.6.1/firebase-analytics.js"></script>
   <script src="js/firebase-conf.js"></script>
-  </body>
+</body>
+
 </html>
