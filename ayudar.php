@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
   <meta name="title" content="Enlaces de referidos | Cetiliztli Technologies" />
   <meta name="description" content="Enlaces de referidos con los cuales puedes obtener algún beneficio o por lo menos ayudándonos. Descubre nuevas formas de hacer dinero">
-  <meta name="keyword" content="enlace referido, bitso, gbm, mercado pago, binance, criptomonedas, limewire, airdrop, mexico, xcapit, legion network" />
+  <meta name="keyword" content="enlace referido, bitso, bitso card, gbm, mercado pago, binance, criptomonedas, limewire, airdrop, mexico, xcapit, legion network" />
   <title>Cetiliztli Technologies</title>
   <!-- CSS  -->
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -119,8 +119,10 @@
             Oferta solo valida para trades, los pagos de referidos excluyen las conversiones.<br>
             <br>
            Si ya tienes tu cuenta en bitso. UNETE A LA LISTA DE ESPERA DE <b>BITSO+</b><br>
+            <a href='https://landing.bitso.com/bitso-plus-es/?kid=1YY5YY&fbclid=IwAR28ZCG1uV-5DSnpPSQgBF6tP5W6EQzy1_vk8FchG-QjYwtOfRdPFvqC_Ok' target="_blank">https://landing.bitso.com/bitso-plus-es/?kid=1YY5YY&fbclid=IwAR28ZCG1uV-5DSnpPSQgBF6tP5W6EQzy1_vk8FchG-QjYwtOfRdPFvqC_Ok</a><br>
             <br>
-            <a href='https://landing.bitso.com/bitso-plus-es/?kid=1YY5YY&fbclid=IwAR28ZCG1uV-5DSnpPSQgBF6tP5W6EQzy1_vk8FchG-QjYwtOfRdPFvqC_Ok' target="_blank">https://landing.bitso.com/bitso-plus-es/?kid=1YY5YY&fbclid=IwAR28ZCG1uV-5DSnpPSQgBF6tP5W6EQzy1_vk8FchG-QjYwtOfRdPFvqC_Ok</a>
+          UNETE A LA LISTA DE ESPERA DE <b>BITSO CARD</b><br>
+            <a href='https://landing.bitso.com/bitso-card-mx/?kid=236Z4A' target="_blank">https://landing.bitso.com/bitso-card-mx/?kid=236Z4A</a>
           </p>
           <br>
 
@@ -134,6 +136,7 @@
             <br>
             Puedes fondear desde Bitso comprando XRP y mandándolo a Binance y posteriormente convirtiendolo a USDT y de ahí compras el token que necesites. <br>
             Puedes recibir un descuento en las transacciones y yo parte de la comisiones (que de todos modos te quita la plataforma) abriendo tu cuenta con mi enlace de referido. <br>
+            <br>
             <a href='https://accounts.binance.com/es/register?ref=326249220' target="_blank">https://accounts.binance.com/es/register?ref=326249220</a><br>
             <br>
             Puedes consultar los detalles aquí: <br>
@@ -150,6 +153,7 @@
             <br>
             Solo obtengo recompensa si se cumple la siguiente condición, pero te recomiendo al menos aprovechar lo anterior.<br>
             ¿Conoce a alguien que quiere saber sobre las criptomonedas? ¡Ambos recibirán 209,77 MXN(10 USD) en Bitcoin cuando su amigo compre o venda 2097,66 MXN(100 USD) o más en Coinbase!<br>
+            <br>
             <a href='https://www.coinbase.com/join/83p75' target="_blank">https://www.coinbase.com/join/83p75</a><br>
           </p>
           <br>

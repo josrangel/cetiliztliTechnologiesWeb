@@ -21,7 +21,7 @@
 	<nav class="black lighten-1" role="navigation">
     <div class="nav-wrapper container">
     	<a id="logo-container" href="#" class="brand-logo">
-    		<img height="40" src="img/logo-cetiliztli.PNG"/>
+    		<img height="40" src="img/logo-cetiliztli.PNG" alt="Cetiliztli Technologies"/>
     		Cetiliztli Technologies
     	</a>
       <ul class="right hide-on-med-and-down">
@@ -114,7 +114,7 @@
           <h2>Desarrollos</h2>
           <br><br>
           <div class="col m4 s6">
-          <img src="img/logoBitacoraApp.png" height="100px" />
+          <img src="img/logoBitacoraApp.png" height="100px" alt="Mi bitacora logo"/>
           </div>
           <div class="col m8 s12">
           <h3>Mi bitacora</h3>
@@ -141,7 +141,7 @@
           			<input type="hidden" name="item_name" value=" Cetiliztli Technologies" />
           			<input type="hidden" name="currency_code" value="MXN" />
           			<input id="btn-paypal" type="image" src="https://www.paypalobjects.com/es_XC/MX/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donar con el botón PayPal" />
-          			<img alt="" border="0" src="https://www.paypal.com/es_MX/i/scr/pixel.gif" width="1" height="1" />
+          			<img alt="Donar" border="0" src="https://www.paypal.com/es_MX/i/scr/pixel.gif" width="1" height="1" />
 				</form>
 				<br/><br/>
 			</center>
