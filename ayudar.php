@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
   <meta name="title" content="Enlaces de referidos | Cetiliztli Technologies" />
   <meta name="description" content="Enlaces de referidos con los cuales puedes obtener algún beneficio o por lo menos ayudándonos. Descubre nuevas formas de hacer dinero">
-  <meta name="keyword" content="enlace referido, bitso, bitso card, gbm, mercado pago, binance, criptomonedas, limewire, airdrop, mexico, xcapit, legion network" />
+  <meta name="keyword" content="enlace referido, cripto, criptomonedas, bitso, bitso card, acciones, gbm, mercado pago, binance, criptomonedas, limewire, airdrop, mexico, xcapit, legion network" />
   <title>Cetiliztli Technologies</title>
   <!-- CSS  -->
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
