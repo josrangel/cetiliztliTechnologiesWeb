@@ -31,7 +31,6 @@
         <li><a href="#binance" class="sidenav-close">Binance</a></li>
         <li><a href="#coinbase" class="sidenav-close">Coinbase</a></li>
         <li><a href="#freebitcoin" class="sidenav-close">Freebitco.in</a></li>
-        <li><a href="#cryptobox" class="sidenav-close">Cryptobox</a></li>
         <li><a href="#legionnetwork" class="sidenav-close">Legion Network</a></li>
         <li><a href="#xcapit" class="sidenav-close">Xcapit</a></li>
         <li><a href="#limewire" class="sidenav-close">Limewire</a></li>
@@ -63,7 +62,6 @@
           <li><a href="#binance">Binance</a></li>
           <li><a href="#coinbase">Coinbase</a></li>
           <li><a href="#freebitcoin">Freebitco.in</a></li>
-          <li><a href="#cryptobox">Cryptobox</a></li>
           <li><a href="#legionnetwork">Legion Network</a></li>
           <li><a href="#xcapit">Xcapit</a></li>
           <li><a href="#limewire">Limewire</a></li>
@@ -172,19 +170,6 @@
           *Cuando te registras te empezara a llegar mucho SPAM por lo que recomiendo utilizar un email que no utilices o bloquear la dirección de correo para que no se te sature de spam.<br>
           <br>
           <a href='https://freebitco.in/?r=48582460' target="_blank">https://freebitco.in/?r=48582460</a><br>
-        </p>
-        <br>
-
-        <h4 id="cryptobox">
-          Cryptobox
-        </h4>
-        <br>
-        <p>
-          Propuesta de un metaverso que hara un airdrop donde regalara tokens de su propuesta.<br>
-          <br>
-          Te registras con la direccion de tu wallet de ethereum que es donde te llegara los tokens y te da 10CBOX. Para sacar los tokens te pide al menos 4 referidos(10 CBOX) para juntar el minimo(50 CBOX).<br>
-          <br>
-          <a href='https://cryptobox.game/UoroV' target="_blank">https://cryptobox.game/UoroV</a><br>
         </p>
         <br>
 
