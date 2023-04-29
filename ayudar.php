@@ -64,7 +64,7 @@
           <li><a href="#freebitcoin">Freebitco.in</a></li>
           <li><a href="#legionnetwork">Legion Network</a></li>
           <li><a href="#xcapit">Xcapit</a></li>
-          <li><a href="#limewire">Limewire</a></li>
+          <li><a href="#stori">Stori</a></li>
           <li><a href="#nu">Nu</a></li>
 
         </ul>
@@ -195,15 +195,14 @@
         </p>
         <br>
 
-        <h4 id="limewire">
-          Limewire
+        <h4 id="stori">
+          Stori
         </h4>
         <br>
         <p>
-          Esta plataforma (la de intercambio de archivos por P2P) quiere regresar en forma de plataforma para NFT.<br>
-          Al registrarte obtienes acceso anticipado y posibilidad de participar en un airdrop.<br>
+          ¡Yo ya tengo mi Stori! 😊 Te paso mi invitación para que obtengas la tuya más rápido, y más fácil puedas crecer tu línea de crédito. Da clic aquí 👉<br>
           <br>
-          <a href='https://limewire.com/invite/c7479c9e385db1ab5e21' target="_blank">https://limewire.com/invite/c7479c9e385db1ab5e21</a><br>
+          <a href='https://www.storicard.com/r/josue_eg27' target="_blank">https://www.storicard.com/r/josue_eg27</a><br>
         </p>
         <br>
 
