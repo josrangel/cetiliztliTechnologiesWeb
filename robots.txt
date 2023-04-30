@@ -1,1 +1,1 @@
-Sitemap: https://cetiliztlitech.herokuapp.com/sitemap.txt
+Sitemap: https://josrangel.github.io/cetiliztliTechnologiesWeb/sitemap.txt

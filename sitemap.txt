@@ -1,2 +1,2 @@
 https://cetiliztlitech.herokuapp.com/
-https://cetiliztlitech.herokuapp.com/ayudar
+https://cetiliztlitech.herokuapp.com/cetiliztliTechnologiesWeb/ayudar.html
