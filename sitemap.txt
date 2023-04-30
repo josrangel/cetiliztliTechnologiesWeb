@@ -1,2 +1,2 @@
-https://cetiliztlitech.herokuapp.com/
-https://cetiliztlitech.herokuapp.com/cetiliztliTechnologiesWeb/ayudar.html
+https://josrangel.github.io/cetiliztliTechnologiesWeb/
+https://josrangel.github.io/cetiliztliTechnologiesWeb/ayudar.html
